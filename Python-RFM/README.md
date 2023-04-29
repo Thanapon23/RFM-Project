@@ -1,5 +1,7 @@
 ## Conclusion from RFM Segmentation Analysis
  Key segments that can create an impact from marketing strategy implementation
+ 
+![image](https://user-images.githubusercontent.com/128878040/235289902-97a8facd-65f6-4b4c-a0d8-3189b74dfd0a.png)
 
 ##### Can't loose
 - Most Recented on everage: 274 days
