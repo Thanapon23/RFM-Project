@@ -14,7 +14,7 @@
 
 This group of customer didn't bought any products for a long time but there spend was a lot amount. The Business need to bring these customer back by Build a marketing strategy related to motivate customer to come back and make purchases or even built a brand royalty.
 
-**example of marketing strategy:**
+**Marketing Strategies:**
 
 1. Sending an email to offer high tier brand membership of any purchased with same amount.
 2. Using Marketing campaigns based on their purchase history to make customer aware of brand value and built a brand relationship to the customer.
@@ -30,7 +30,7 @@ This group of customer didn't bought any products for a long time but there spen
 
 This segment got more than 665 people with Highly spned 279,489 on everage this is the most important gruop of segment of the business who already love the buy brand's product. we only have to maintain their loyalty and avocate brand.
 
-**example of marketing strategy:**
+**Marketing Strategies:**
 
 1. Procvide a memorable brand experience with a campaigns related to their life style. 
 2. offer incentives when customer who recommend to their friend or family to buy products or service.
