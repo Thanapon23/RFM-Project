@@ -34,6 +34,6 @@ This segment got more than 665 people with Highly spned 279,489 on everage this 
 
 **Marketing Strategies:**
 
-1. Procvide a memorable brand experience with a campaigns related to their life style. 
+1. Provide a memorable brand experience with a campaigns related to their life style. 
 2. offer incentives when customer who recommend to their friend or family to buy products or service.
 3. Deliver a best customer service campaigns, bringing the exellent shopping experience to make customer's most satisfaction. this campaign include a discount, free-trial products or marketing activities.
