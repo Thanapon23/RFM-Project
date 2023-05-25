@@ -1,4 +1,4 @@
-# Python RFM Project
+# RFM Project
   This Repository containing RFM Analysis Project.
 
 ## What is RFM Analysis?
