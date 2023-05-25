@@ -1,3 +1,5 @@
+## The question: How to separate customer segmentation and increase sales?
+
 ## Conclusion from RFM Segmentation Analysis
  Key segments that can create an impact from marketing strategy implementation
  
